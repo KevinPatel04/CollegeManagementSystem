@@ -1,0 +1,5 @@
+fte003 Dr.Amit Ganatra CSPIT CE HOD
+fte008 Khusboo Patel CSPIT CE ASST_PROF
+fte008 Deval Patel CSPIT CE ASST_PROF
+fte005 Ashwin Makwana CSPIT CE ASSC_PROF
+

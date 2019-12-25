@@ -1,0 +1,16 @@
+fte003 Dr.Amit Ganatra CE CSPIT P.hD Machine_learning HOD 19 200000
+fte006 Dr.Trushit Upadhyaya EC CSPIT Ph.D RF,Microwave_engg. HOD 20 200000
+fte011 Dr.Parth Shah IT CSPIT Ph.D Cloud_Computing HOD 20 200000
+fte012 Dr.Vinay Chaudhary ME CSPIT Ph.D Composites_Machining HOD 20 200000
+fte013 Dr.Praghnesh Bhatt EE CSPIT Ph.D Power_System HOD 20 200000
+fte014 Dr.V Panchal CL CSPIT Ph.D Structural_Eng. HOD 20 200000
+fte001 Mayuri Popat CE CSPIT M.Tech C,C++ ASST_PROF 5 80000
+fte002 Dipsi Dave CE DEPSTAR M.Tech C,C++ ASST_PROF 2 60000
+fte004 Kruti Dhyani CE CSPIT M.Tech C,C++ ASST_PROF 2 60000
+fte007 Poonam Thanki EC CSPIT M.Tech BEEE ASST_PROF 4 80000
+fte008 Deval Patel CE CSPIT M.Tech C,C++ ASST_PROF 3 60000
+fte009 Sagar Cokshi ME CSPIT M.Tech CAD ASST_PROF 5 80000
+fte010 Nipun Gosai ME CSPIT M.Tech CAD ASST_PROF 2 60000
+fte005 Ashwin Makwana CE CSPIT M.Tech AI ASSC_PROF 10 100000
+fte015 Nidhi Barodawala DCS DEPSTAR M.Tech C ASST_PROF 1 60000
+fte016 Dweepna Garg DCE DEPSTAR M.Tech C,C++ ASSC_PROF 4 100000
